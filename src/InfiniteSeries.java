@@ -26,7 +26,7 @@ public class InfiniteSeries {
     public static void main(String[] args) {
         //The accuracy of the results get worse the larger the value x is.
         //When x = .1 or -.1 the result of myExp method is extremely accurate.
-        // but as x gets bigger, the method get gets less usefull and more inaccurate.
+        // but as x gets bigger, the method get gets less useful and more inaccurate.
         //
 
         double x = 0.1;
