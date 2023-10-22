@@ -24,6 +24,12 @@ You can use the escape sequence **\t** to put a tab character between columns of
 6. Add a loop in main that checks myexp with the values -0.1, -1.0, -10.0, and -100.0.
 * Comment on the accuracy.
 
+The accuracy of the result varies as x varies.
+The estimated value is more accurate when x is close to zero.
+The estimated value is less accurate when x is large or negative.
+The number of digits of agreement decreases as the difference between x and zero increases.
+
+
 ## Part 2 - Submit via GitHub Pull Request
 * Perform the same Pull request steps you've been doing all semester!
     * Don't forget to **feature branch** as Feature1 
