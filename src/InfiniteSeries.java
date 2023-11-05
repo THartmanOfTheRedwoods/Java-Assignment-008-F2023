@@ -1,5 +1,5 @@
 //Naqibllah Haiwadpal
-//11/4/2023
+//11/4/2023.
 public class InfiniteSeries {
 
     public static double myexp(double x, int n) {
