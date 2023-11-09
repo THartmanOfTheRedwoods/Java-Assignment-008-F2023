@@ -27,3 +27,6 @@ You can use the escape sequence **\t** to put a tab character between columns of
 ## Part 2 - Submit via GitHub Pull Request
 * Perform the same Pull request steps you've been doing all semester!
     * Don't forget to **feature branch** as Feature1 
+
+## Answer for #6:
+* The accuracy increases as X increases in most cases
