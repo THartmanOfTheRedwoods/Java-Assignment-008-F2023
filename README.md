@@ -22,7 +22,8 @@ You can use the escape sequence **\t** to put a tab character between columns of
     * Compare the number of digits of agreement rather than the difference between the actual and estimated values.
 
 6. Add a loop in main that checks myexp with the values -0.1, -1.0, -10.0, and -100.0.
-* Comment on the accuracy.
+* Comment on the accuracy:
+**The larger the number input, the greater the accuracy**
 
 ## Part 2 - Submit via GitHub Pull Request
 * Perform the same Pull request steps you've been doing all semester!
